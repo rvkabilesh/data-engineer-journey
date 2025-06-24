@@ -1,0 +1,6 @@
+Date,ProductID,Quantity,Price,Product,Category,City,Customer,Revenue
+2024-06-01,101,2,60000,Laptop,Electronics,Chennai,Alice,120000
+2024-06-01,102,5,500,Mouse,Electronics,Chennai,Bob,2500
+2024-06-02,103,1,2000,Chair,Furniture,Bengaluru,Charlie,2000
+2024-06-03,101,1,60000,Laptop,Electronics,Chennai,Alice,60000
+2024-07-02,104,2,20,Pen,Stationery,Mumbai,Eve,40
