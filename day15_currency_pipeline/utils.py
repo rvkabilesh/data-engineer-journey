@@ -12,5 +12,5 @@ def process_rates(data):
     return df_rates.sort_values('rates')
 
 def save_data(df,filename):
-    df.to_csv(f'exchange rates/{filename}',index=False)
+    df.to_csv(f'day15_currency_pipeline/exchange rates/{filename}',index=False)
 
