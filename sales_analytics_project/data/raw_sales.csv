@@ -1,0 +1,9 @@
+Date, Product ,Quantity ,Price ,City ,Customer
+2024-06-01,Laptop,2,₹60000 ,Chennai , Adam
+2024-06-01,Mouse,5,₹500,Chennai, Gokul
+2024-06-02,Keyboard, ,₹800,Bangalore,priya
+2024-06-03,mouse ,3,₹500, Bangalore ,vignesh
+2024-06-04, ,1,₹200,Hyderabad,Aswin
+2024-06-05,Laptop,1,₹60000,Chennai,Kumar
+2024-06-06,Keyboard,2,₹800,Bangalore,Arjun
+2024-06-06,Laptop,,₹60000 ,Chennai,Abdul
