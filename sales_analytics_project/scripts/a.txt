@@ -1,0 +1,9 @@
+Generate and export:
+
+✅ Total revenue by product
+
+✅ Total quantity sold by city
+
+✅ Daily sales trend
+
+✅ Save all as CSV files
